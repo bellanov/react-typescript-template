@@ -1,0 +1,9 @@
+Dockerfile
+.dockerignore
+.git
+npm-debug.log
+/.cache
+/build
+/public/build
+.env
+README.md
